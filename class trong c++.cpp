@@ -151,7 +151,7 @@ do{
 	break;
 //	case 6:fixVoteIfwrong(n,a);
 //	break;
-//	case 7:	winner(n,a);
+
 //	break;
 	}
 }while(k!=8);
